@@ -13,6 +13,7 @@
 		D3EA2EA62499B1CD00F788BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3EA2EA42499B1CD00F788BF /* Main.storyboard */; };
 		D3EA2EA82499B1CF00F788BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3EA2EA72499B1CF00F788BF /* Assets.xcassets */; };
 		D3EA2EAB2499B1CF00F788BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3EA2EA92499B1CF00F788BF /* LaunchScreen.storyboard */; };
+		D3EA2EB32499B4E900F788BF /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EA2EB22499B4E900F788BF /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D3EA2EA72499B1CF00F788BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3EA2EAA2499B1CF00F788BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D3EA2EAC2499B1CF00F788BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3EA2EB22499B4E900F788BF /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D3EA2EA72499B1CF00F788BF /* Assets.xcassets */,
 				D3EA2EA92499B1CF00F788BF /* LaunchScreen.storyboard */,
 				D3EA2EAC2499B1CF00F788BF /* Info.plist */,
+				D3EA2EB22499B4E900F788BF /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				D3EA2EA32499B1CD00F788BF /* ViewController.swift in Sources */,
 				D3EA2E9F2499B1CD00F788BF /* AppDelegate.swift in Sources */,
 				D3EA2EA12499B1CD00F788BF /* SceneDelegate.swift in Sources */,
+				D3EA2EB32499B4E900F788BF /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
